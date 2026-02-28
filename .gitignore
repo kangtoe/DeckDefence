@@ -61,3 +61,12 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# User-specific settings
+/[Uu]serSettings/
+
+# IDE settings
+.vscode/
+
+# Solution files
+*.slnx
+
